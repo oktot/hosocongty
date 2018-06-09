@@ -1,57 +1,22 @@
-# Soot Spirits Jekyll Theme
+Jekyll博客模板
+================
 
-Soot Spirits is a responsive mobile ready lightweight two column Jekyll theme made with Bulma CSS. It is a great template for simple personal blogs with focus on typography.
+#### 1.浏览
+http://www.panxw.com, 支持PC与智能机访问。  
 
-![mobile](tmp/mobile.png)
+#### 2.模板使用
+修改_config.yml与_includes目录下相关文件进行配置。  
+模板可任意使用，但请保留本站**友情链接**。  
 
-The text is made beautiful with combination of [League Gothic](https://www.fontsquirrel.com/fonts/league-gothic), [Roboto](https://fonts.google.com/specimen/Roboto) and [Open Sans](https://fonts.google.com/specimen/Open+Sans). Now who doesn't love them. 
+#### 3.联系作者
+Email: winfirm(#)163.com  
+QQ交流群: 168563980  
 
-![text](tmp/langslide.gif)
+#### 4.赞助
+想给作者予以鼓励？欢迎打赏吧。  
+支付宝:  
+<img width="200" height="200" src="http://o83o7w0hk.bkt.clouddn.com//donate_qr/donate_alipay.jpg"/>
 
-### Demo
-[sootspirits.github.io](https://sootspirits.github.io)
+微信:  
+<img width="200" height="200" src="http://o83o7w0hk.bkt.clouddn.com//donate_qr/donate_weixin.jpg"/>
 
-### Some Good Features
-
-- Fully mobile ready
-- Beautiful typography
-- Two column layout suitable for a wide range of blogging habits
-- Fully customisable theme including the 'hello' text, quotes, nav items and sidebar widgets
-
-### Screenshots
-##### Deskop browser (full width)
-![fullwidth](tmp/fullwidth.png)
-
-##### Tablet browser (iPad)
-![tab](tmp/ipad.png)
-
-##### Mobile browser (320px and greater)
-![mobile](tmp/mobile.png)
-
-##### Hamburger menu toggle
-![hamburger](tmp/hamburger.gif)
-
-##### Basic navigation and footer
-![navi](tmp/navi.gif)
-
-### Theme Usage
-
-- [Get started](https://jekyllrb.com/docs/installation/) with having the necessary tools set up
-- Download the zip of this project or simple clone it
-- Delete the ```tmp/``` directory and any sample ```_posts``` 
-- Customize the variables in ```_config.yml``` file such that it reflects your information. Similarly, change the disqus username (or remove it altogether).
-- Replace footer links in the ```_layouts/default.html``` file with yours.
-- Replace the ```site:example.com``` in ```assets/js/custom.js``` with your site's address.
-
-### Credits
-- [Codepen hi-im-si](http://codepen.io/hi-im-si/pen/DHoup) for the header 'hello' typewriter text
-- [Bulma CSS](bulma.io/)
-- [Jekyll](https://jekyllrb.com)
-- [Github](https://github.com)
-
-### Licence
-MIT
-
-
-### What's up with the name?
-I was watching [My Neighbour Totoro](https://en.wikipedia.org/wiki/Susuwatari) while developing :-)
