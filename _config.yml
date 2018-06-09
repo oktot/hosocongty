@@ -3,7 +3,7 @@ title: "Cẩm Nang Tình Yêu"
 url-title: "Cẩm Nang Tình Yêu"
 description: "Đoàn Bình"
 paginate: 100
-url: "http://camnangtinhyeu.net"
+url: "http://hosocongty.net"
 permalink: /:year/:month/:title/
 future: false
 defaults:
